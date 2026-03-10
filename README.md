@@ -57,6 +57,9 @@ The process of learning and relearning, at my age, as someone carrying all the b
 If you made it to the end of this monologue: congratulations. Maybe we're more alike than you'd care to admit. All I can do is say thank you.
 
 
+💡 "Do nothing that you cannot tell." > (Qualquer coisa que você faça e que não possa ser contada, não faça.)
+
+
 <!--
 **pemartins1970/pemartins1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
