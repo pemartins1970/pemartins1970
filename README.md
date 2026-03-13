@@ -52,25 +52,11 @@ The reception has been disproportionate. I've been receiving private messages fr
 
 The process of learning and relearning, at my age, as someone carrying all the baggage that dyslexia and more than a decade of severe depression leave behind, is hard to put into words. But if everything that's happened since October shows me anything, it's that even in the middle of a pretty rough overall picture, there's a viable path forward. You can start making things again. And I am.
 
+**Above all, I am passionate about product and project engineering, and I’ve found AI to be a means to build the things that interest me, at my own pace.**
+
 **B.E.N.** launched on March 2nd. Today, March 10th — like a Gremlin that fell in water and had a full meal — it has spawned offspring. Several, actually. May my health hold out. I still have a lot left to do. And I want to do it.
 
 If you made it to the end of this monologue: congratulations. Maybe we're more alike than you'd care to admit. All I can do is say thank you.
 
 
-💡 "Do nothing that you cannot tell." > (Qualquer coisa que você faça e que não possa ser contada, não faça.)
-
-
-<!--
-**pemartins1970/pemartins1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *"Do nothing that you cannot tell."*
